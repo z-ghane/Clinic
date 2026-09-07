@@ -39,7 +39,8 @@
 
 <li> مبتنی بر بانک اطلاعاتی Microsort SQL Server</li>
 
-<li> استفاده از تقویم فارسی BPersianCalendar v.5.0.0.0</li>
+<li> استفاده از تقویم فارسی 
+	<a href="https://www.nuget.org/packages/BPersianCalendar">BPersianCalendar v.5.0.0.0</a></li>
 </ul>
 
 </div>
