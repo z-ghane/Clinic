@@ -10,11 +10,11 @@
 
 <li dir="rtl"> پیاده سازی شده با C# Windows Forms (.NET Framework v.4.8) </li>
 
-- اتصال به پایگاه داده با استفاده از ADO.NET و Entity Framework v.6.2.5
+<li> اتصال به پایگاه داده با استفاده از ADO.NET و Entity Framework v.6.2.5</li>
 
-- مبتنی بر بانک اطلاعاتی Microsort SQL Server
+<li> مبتنی بر بانک اطلاعاتی Microsort SQL Server</li>
 
-- استفاده از تقویم فارسی BPersianCalendar v.5.0.0.0
+<li dir="rtl"> استفاده از تقویم فارسی BPersianCalendar v.5.0.0.0</li>
 
 </div>
 
