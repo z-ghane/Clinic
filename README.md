@@ -3,11 +3,13 @@
 
 <div dir="rtl">
 
+<ul>
 <li dir="rtl"> توضیح: نرم افزار جامع مدیریت نوبت‌دهی، آمار کلینیک، ثبت پرونده بیماران</li>
+</ul>
 
 
 ## تکنولوژی‌های مورد استفاده
-
+<ul>
 <li dir="rtl"> پیاده سازی شده با C# Windows Forms (.NET Framework v.4.8) </li>
 
 <li> اتصال به پایگاه داده با استفاده از ADO.NET و Entity Framework v.6.2.5</li>
@@ -15,6 +17,7 @@
 <li> مبتنی بر بانک اطلاعاتی Microsort SQL Server</li>
 
 <li dir="rtl"> استفاده از تقویم فارسی BPersianCalendar v.5.0.0.0</li>
+</ul>
 
 </div>
 
